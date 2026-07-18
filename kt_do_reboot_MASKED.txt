@@ -1,0 +1,19 @@
+=== CMD: 'system' ===
+s[Ky[Ks[Kt[Ke[Km[K
+Core::Configurator: Done.
+(system)> [K
+=== CMD: 'reboot ?' ===
+r[Ke[Kb[Ko[Ko[Kt[K [K
+
+ Usage template:  
+           reboot [({interval} | (schedule {schedule}))]
+
+[17D(system)> reboot schedule [K
+Command::Base error[7405602]: argument parse error.
+(system)> [K
+
+=== TRIGGERING REBOOT NOW ===
+=== CMD: 'reboot' ===
+r[Ke[Kb[Ko[Ko[Kt[K
+Core::System::RebootManager: Activated system reboot.
+(system)> [K
